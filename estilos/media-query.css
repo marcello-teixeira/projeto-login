@@ -14,6 +14,7 @@
 
     #login {
         width: 80vw;
+        height: 300px;
         
 
     }
@@ -38,6 +39,7 @@
 @media screen and (min-width: 992px) {
     #login {
         height: 70vh;
+        height: 300px
     }
 
     #photo {
@@ -49,5 +51,5 @@
         float: left;
         width: 50%
     }
-
+    
 }
